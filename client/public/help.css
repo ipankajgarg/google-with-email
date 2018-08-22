@@ -1,0 +1,12 @@
+.delete-icon{
+  width: 3%;
+  position: absolute;
+    right: 0px;
+    top: 0px;
+    cursor: pointer;
+}
+
+.loading{
+  width: 20%;
+
+}
